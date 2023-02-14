@@ -1,0 +1,25 @@
+		=======>Arrays:
+Advantages
+1) contiguous memory
+2) access time T(n)=O(1)
+3) store same type of data using single variable
+
+Disadvantages
+1) insertion time complexity T(n) = O(n)
+2) deletion time complecity T(n) = O(n)
+3) size of array shoudl be known
+4) wastage of memory as we declare 20 elements but we store jsut 3 elements.
+
+Applications:
+Searching
+Sorting
+Matrix Multiplication	//we use 2D array for image representation
+Image processing
+can implement sract, queue, graph and Tree
+
+Practise:
+CodeChef
+HackerRank
+HackerEarth
+
+		======>Linked Lists:

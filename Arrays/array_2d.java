@@ -14,6 +14,10 @@ public class array_2d {
             System.out.println("A matrix of " + row + " x " + col + " is created successfully!");
             int arr[][] = new int[row][col];
 
+            // if hardcoded data
+            // int array2D[][] = {{1,2,3,4},{4,5,6,6},{7,8,9,9}}; //this shows row=3 and
+            // col=4
+
             // taking values for the matrix
             for (int i = 0; i < row; i++) {
                 for (int j = 0; j < col; j++) {
