@@ -1,4 +1,4 @@
-		=======>Arrays:
+		=======>Arrays: saj
 Advantages
 1) contiguous memory
 2) access time T(n)=O(1)
